@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "akki01133.github.io",
+  "homepage": "https://akki01133.github.io",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
