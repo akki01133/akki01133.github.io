@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/akki01133.github.io/static/css/main.4152c3d3.css",
+    "main.js": "/akki01133.github.io/static/js/main.5a7991b4.js",
+    "index.html": "/akki01133.github.io/index.html",
+    "main.4152c3d3.css.map": "/akki01133.github.io/static/css/main.4152c3d3.css.map",
+    "main.5a7991b4.js.map": "/akki01133.github.io/static/js/main.5a7991b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.5a7991b4.js"
+  ]
+}
